@@ -56,4 +56,4 @@ class Group(BaseGroup):
 
 
 class Player(BasePlayer):
-    pago = models.FloatField()
+    pass
